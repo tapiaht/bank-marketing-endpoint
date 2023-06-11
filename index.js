@@ -8,9 +8,9 @@ const cors = require('cors')
 const app = express()
 app.use(cors())
 
-const projectId = 'streaming-analytics-showcase'
+const projectId = 'burger-king-389503'
 const computeRegion = 'us-central1'
-const modelId = 'TBL8342562067936444416'
+const modelId = 'TBL2876385090424799232'
 
 const client = new automl.v1beta1.PredictionServiceClient()
 const modelFullId = client.modelPath(projectId, computeRegion, modelId)

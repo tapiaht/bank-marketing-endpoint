@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "burger-king-389503",
+  "private_key_id": "fd74d736ec5f1bdfe3e6740a663803c0e067db16",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1Pn9T5NgxItNZ\nnPvY8U7cyt4s30NWR8tIR0++3OMtNiO5oPJ4ZQxYKwXCao8m0rvo3zVask2NMye1\nV6Jw/1d7wLoFwllyM4Fjot2j9t/PemnZHp7848xnGCH8RANAPsIIl3bpwr6n0X+T\ngnhsduUCYLPD5fjAkMcSQLzHW4VAQV/NiTc8Ti4qcgPVxRg+dOW/1tg7NOQllDXE\nDQknVrR2cDDZN9bywZ34qZOxiJby/WnWyfJXKjHtSFy8gsRgPcHUYa6pXvDDnHq5\nFwsG1QQgGR7rlwKZXchgyq+/+qYanLrbwZ7KqEjwsnxyAdl0x+oHv+FiyiWQD3vv\ngo/5QFGhAgMBAAECggEACO8Fku6t5t8g9JL3uYHseZbg1GylWq6Dg0KrmDx2ULNR\nV7wqk3tknEBzolmDCJ58z23YKQoupyn5ODezfLcjWmjdqnzB0K6f/zenDebUcZtG\ntiJrowq996txemgmUl99jDOeE4frQqWhkJVu5ubF40P9vGdcp25Dd7975qY411nE\nLYoS9fCfYGhBFPNtCdRbF8CgRtAE8EES9ddWKDl9FJmIi7H6x/UnFXEgJ203Fw9J\nGxrAw+Htb9YOfEhuAujdu7rURHLF7ZiARaXoFRM5PWnwkZe5gAPic2wJAZF+4Ic0\nOmCFAHO5av4UjmklC64C+jNDfJ2hL8aPbP5J5DDhYQKBgQD0h5/NEt9CX1mPSvRH\ngJ6d/RCSbmGxdMUqMY4+TQ4Y8vAnxGsJvxcqv6gBwhSXRZ6MdlRBs0zAVkwk5bFB\n8fVPnNDPNko1s6YtQKeIsm88eDqVMOyCOxhltmp4zxw1fQkvX892TFRxhqOY9OFv\neS9SXBU0Jyq3J4Pq+6HSIWbSkQKBgQC9vuxHC0hmwPieSiELcaOHPVfykzLFTpwh\nnqf2NM2AafGQ8X49O8EclmSXqrI8k8DwyAmvhRd6L+TxfV/Lm+jhwCyYTXwPTZ9b\nxdOhW0wwCLIhhAqDPeXGkppE8JJTpgoebEPVJZoECI3HvixQhL/llYSGHScW4wDH\nC38eEkX2EQKBgQCVSqhZwAfmsegwAAccEH7G3lZb0GB8w1oM5Kx/hPPyb4AIB3eC\nP9SZGOIuEJwZrzuZbjUK17koRIfAjyulo1+t94PUvsSX/NKcFjky0B3xwUWjCHed\nGw9OKgzfLTN/xJLzBX/YLcnwdc8z924bbNVjZyza5n7By7JSqManUBVCwQKBgGCy\nCUrzLwReVtSjxk9ErCdhVY5jAT6Xnu1rIwFPS2Kjmt1YlBK0fucIpV69OHOygGK0\nLmtqEdrMyYlfcRAb9gQFoTREWHKcBhgIqp7SHfNkmxKFba4QPyaA02lKh+dk+Eck\nuTTIIsLncQlXmtG1tO1U0uJdvOvm5yCIdVFn0othAoGAQsTmXKAQ6pQJ1MaRqT1D\nkuImeL/+T3gMZW5xxx7O+fta6GRgdBe799LQa1NHgy0SOcyQxLsDWZOGyJStbe/x\nqbPjlmo0aW+xaWMK6N3sa+Aw8DgQEpHCE13KQ1ozwEnbk7/zmoes6nZLth0FVFEx\n7vug1LwWCKqokqU7TQIvpIM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "burgerking-endpoint@burger-king-389503.iam.gserviceaccount.com",
+  "client_id": "103723176454442769525",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/burgerking-endpoint%40burger-king-389503.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
